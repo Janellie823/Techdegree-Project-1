@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'ui-monospace', monospace;
   color: #222;
   background: #f7f5f0;
 }
@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #4bc8e7;
   color: black;
   padding: 10px;
   border-radius: 5px;
@@ -85,7 +85,7 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
+  background-color: palevioletred;
   color: yellow;
 }
 .card {
@@ -110,7 +110,7 @@ ul.skills {
 .skills li {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: #cb92af;
   color: white;
   padding: 5px 10px;
   margin: 2px;
