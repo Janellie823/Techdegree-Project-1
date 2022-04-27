@@ -84,6 +84,9 @@
     border: 3px solid white;
     transition: all .5s;
   }
+h2 {
+  text-align: center;
+}
   .tag {
     background-color: #efefef;
     color: black;
