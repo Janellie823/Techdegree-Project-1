@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+nav {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 5px solid rgb(225, 47, 130);
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -91,7 +91,7 @@ h2 {
   background-color: palevioletred;
   color: yellow;
 }
-.card {
+section {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -101,9 +101,7 @@ h2 {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
-  border-color: #ff99ff;
-}
+
 
 ul.skills {
   padding: 0;

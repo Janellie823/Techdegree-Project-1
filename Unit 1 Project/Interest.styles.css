@@ -23,7 +23,7 @@
   
   /* Section Styles */
   
-  .main-nav {
+  nav {
     width: 100%;
     background: black;
     min-height: 30px;
@@ -99,7 +99,7 @@ h2 {
     background-color: #222;
     color: yellow;
   }
-  .card {
+  section {
     color:#f7f5f0;  
     margin: 30px;
     padding: 20px 40px 40px;
@@ -110,10 +110,7 @@ h2 {
     border-radius: 6px;
     transition: all .5s;
   }
-  .card:hover {
-    border-color: #ff99ff;
-  }
-  
+
   ul.skills {
     padding: 0;
     text-align: center;
